@@ -19,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ACE19C5C27E2745F0074C111 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		ACE19C5D27E274780074C111 /* Dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dark.png; sourceTree = "<group>"; };
+		ACE19C5E27E274780074C111 /* Light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Light.png; sourceTree = "<group>"; };
 		ACF32EAD27DFB6EE00BB36AF /* CircularPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircularPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF32EB027DFB6EE00BB36AF /* CircularPickerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularPickerApp.swift; sourceTree = "<group>"; };
 		ACF32EB227DFB6EE00BB36AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -46,6 +49,9 @@
 			isa = PBXGroup;
 			children = (
 				ACF32EAF27DFB6EE00BB36AF /* CircularPicker */,
+				ACE19C5D27E274780074C111 /* Dark.png */,
+				ACE19C5E27E274780074C111 /* Light.png */,
+				ACE19C5C27E2745F0074C111 /* README.md */,
 				ACF32EAE27DFB6EE00BB36AF /* Products */,
 			);
 			sourceTree = "<group>";
