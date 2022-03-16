@@ -8,5 +8,5 @@ The same as in the [Jewelry Calc](https://apps.apple.com/app/jewelry-calc/id1576
 - Support for light and dark modes
 - SwiftUI
 
-![Light](https://github.com/Artem-Viveritsa/CircularPicker/blob/main/Light.png =x250)
-![Dark](https://github.com/Artem-Viveritsa/CircularPicker/blob/main/Dark.png =x250)
+<img src="Light.png" width="300">
+<img src="Dark.png" width="300">
