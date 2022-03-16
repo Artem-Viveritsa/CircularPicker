@@ -8,5 +8,10 @@ The same as in the [Jewelry Calc](https://apps.apple.com/app/jewelry-calc/id1576
 - Support for light and dark modes
 - SwiftUI
 
-<img src="Light.png" width="300">
-<img src="Dark.png" width="300">
+### Screenshots
+<p float="left">
+  <img src="Light.png" width="300">
+  <img src="Dark.png" width="300">
+</p>
+
+
